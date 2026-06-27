@@ -1,255 +1,150 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Syed Bilal Hassan Banner" width="100%" />
+  <img src="./assets/banner.png" width="100%" alt="Syed Bilal Hassan Banner">
 </p>
 
-<!-- ===================================================== -->
-<!--                 SYED BILAL HASSAN                     -->
-<!-- ===================================================== -->
-
-<h1 align="center">
-Hi 👋, I'm Syed Bilal Hassan
-</h1>
-
-<h3 align="center">
-AI Engineer • AI Researcher • IEEE Published Author
-</h3>
+<h1 align="center">Syed Bilal Hassan</h1>
 
 <p align="center">
-Building trustworthy AI systems through <b>Agentic AI</b>,
-<b>Retrieval-Augmented Generation (RAG)</b>,
-<b>Large Language Models</b>,
-<b>Computer Vision</b>,
-and <b>Reinforcement Learning</b>.
+AI Software Developer • AI Researcher
+</p>
+
+<p align="center">
+Building trustworthy intelligent systems through <strong>Agentic AI</strong>,
+<strong>Retrieval-Augmented Generation</strong>,
+<strong>Large Language Models</strong>, and
+<strong>Computer Vision</strong>.
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## About Me
 
-I recently graduated with a **Bachelor of Science in Artificial Intelligence** from **FAST-NUCES, Islamabad**.
+I am an AI Software Developer and a graduate in Artificial Intelligence from **FAST – National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad**.
 
-My research focuses on designing intelligent systems that are **factual, reliable, explainable, and production-ready**. I enjoy working at the intersection of AI research and software engineering, transforming cutting-edge research into practical applications.
+My research focuses on designing intelligent systems that are **reliable, factual, explainable, and deployable**. I am particularly interested in improving the reasoning capabilities of Large Language Models through retrieval-augmented generation, multi-agent architectures, and verification-driven workflows.
 
-Currently, I work as an **AI Software Developer**, where I build scalable AI systems while continuing my research in Agentic AI and Retrieval-Augmented Generation.
-
----
-
-# 🔬 Research Interests
-
-- Agentic AI
-- Retrieval-Augmented Generation (RAG)
-- Large Language Models
-- Multi-Agent Systems
-- Natural Language Processing
-- AI Reasoning
-- Computer Vision
-- Reinforcement Learning
-- Explainable AI
-- Trustworthy AI
+I enjoy combining rigorous research with software engineering to build AI systems that move beyond proof-of-concept into practical, production-ready applications.
 
 ---
 
-# 📄 Publications
+## Research Interests
 
-## Agentic Self-RAG: Multi-Agent Reasoning for Self-Correcting Retrieval-Augmented Generation
+* Agentic AI
+* Retrieval-Augmented Generation (RAG)
+* Large Language Models
+* Multi-Agent Systems
+* Natural Language Processing
+* AI Reasoning
+* Trustworthy AI
+* Computer Vision
+* Reinforcement Learning
+
+---
+
+## Research
+
+### Agentic Self-RAG: Multi-Agent Reasoning for Self-Correcting Retrieval-Augmented Generation
 
 **First Author**
 
-Accepted at
-
-**International Conference on IT & Industrial Technologies (ICIT 2026)**
+Accepted at the **International Conference on IT & Industrial Technologies (ICIT 2026)**
 
 Published in **IEEE Xplore**
 
-### Key Contributions
+#### Highlights
 
-- Novel Multi-Agent Self-RAG architecture
-- Query Analyzer Agent
-- Retrieval Critic Agent
-- Answer Verification Agent
-- 9.1% Exact Match Improvement
-- 52% Hallucination Reduction
-
----
-
-# 🚀 Featured Projects
-
-### 🤖 Agentic Self-RAG
-
-Multi-agent framework for factual reasoning using LangGraph.
+* Proposed a novel multi-agent Self-RAG framework for improving factual grounding in LLMs.
+* Designed specialized Query Analyzer, Retrieval Critic, and Answer Verification agents.
+* Achieved a **9.1% improvement in Exact Match** on HotpotQA.
+* Reduced entity-level hallucinations by **52%** compared to baseline RAG systems.
+* Developed an iterative verification-driven reasoning workflow using LangGraph.
 
 ---
 
-### 🚌 AI-Powered Metro Bus Tracking System
+## Selected Projects
 
-Multi-agent intelligent transportation platform with
+### Agentic Self-RAG
 
-- ETA prediction
-- Route optimization
-- Demand forecasting
-- Traffic-aware scheduling
+A research framework that combines retrieval augmentation with multi-agent reasoning to improve factual consistency in large language models.
 
 ---
 
-### 🚗 End-to-End Autonomous Driving
+### AI-Powered Metro Bus Tracking System
 
-Conditional Imitation Learning
-
-YOLOv10
-
-CARLA Simulator
-
-Real-world steering prediction
+A multi-agent intelligent transportation platform featuring ETA prediction, traffic-aware scheduling, demand forecasting, and route optimization.
 
 ---
 
-### 🎭 Multi-Identity Deepfake Detection
+### End-to-End Autonomous Driving
 
-Lightweight multimodal framework using
-
-- MobileNetV3
-- BiLSTM
-- MTCNN
-- FaceNet
+Conditional Imitation Learning integrated with YOLOv10 for perception-driven autonomous vehicle control using the CARLA simulator.
 
 ---
 
-### 🎨 Stable Diffusion Microservice
+### Multi-Identity Deepfake Detection
 
-Containerized AI microservice using
-
-- Stable Diffusion XL
-- FastAPI
-- Docker
-- gRPC
-- Gradio
+A lightweight multimodal framework for detecting manipulated videos involving multiple speakers using visual, audio, and identity-aware representations.
 
 ---
 
-### ⚡ Smart Grid Energy Management
+### Stable Diffusion Microservice
 
-Deep Reinforcement Learning
-
-PPO
-
-Stable-Baselines3
+A scalable text-to-image inference service built using Stable Diffusion XL, Docker, FastAPI, gRPC, and Gradio.
 
 ---
 
-# 🛠 Technical Skills
+### Smart Grid Energy Management
 
-## Languages
-
-Python • C++ • SQL • R • MATLAB
-
-## AI / Machine Learning
-
-PyTorch
-
-TensorFlow
-
-Scikit-Learn
-
-LangChain
-
-LangGraph
-
-Transformers
-
-Stable-Baselines3
-
-## NLP & LLMs
-
-RAG
-
-FAISS
-
-Sentence Transformers
-
-SpaCy
-
-NLTK
-
-## Backend
-
-FastAPI
-
-Flask
-
-gRPC
-
-Docker
-
-Gradio
-
-Streamlit
-
-## Cloud
-
-AWS
-
-Azure
-
-Google Cloud
-
-## Databases
-
-MySQL
-
-GraphDB
+A Deep Reinforcement Learning framework using PPO for multi-objective energy optimization.
 
 ---
 
-# 🌱 Currently Exploring
+## Technical Expertise
 
-- Advanced Agentic AI
-- Long-Context LLMs
-- AI Infrastructure
-- Distributed AI Systems
-- AI Evaluation
-- Knowledge Graphs
-- MCP
-- AI Agents
+### Artificial Intelligence
 
----
+Large Language Models • Agentic AI • Retrieval-Augmented Generation • Computer Vision • Reinforcement Learning • Explainable AI
 
-# 🎯 Long-Term Vision
+### Frameworks
 
-I aspire to contribute to the development of trustworthy and scalable Artificial Intelligence systems through research and engineering.
+PyTorch • TensorFlow • LangChain • LangGraph • Hugging Face Transformers • Scikit-learn
 
-My long-term goal is to pursue graduate studies in Artificial Intelligence and contribute to cutting-edge research in
+### Backend & Deployment
 
-- Agentic AI
-- Large Language Models
-- Retrieval-Augmented Generation
-- Multi-Agent Systems
+FastAPI • gRPC • Docker • Kubernetes • Gradio • Streamlit
 
-while developing AI technologies that create meaningful real-world impact.
+### Cloud & Infrastructure
+
+AWS • Microsoft Azure • Google Cloud Platform
 
 ---
 
-# 📈 GitHub Statistics
+## Current Focus
 
-<!-- GitHub Stats Card -->
-
-<!-- Streak Stats -->
-
-<!-- Top Languages -->
+My current work explores scalable agentic architectures capable of reasoning, retrieving, verifying, and collaborating to solve complex real-world problems. I am particularly interested in trustworthy AI systems that bridge research innovations with production deployment.
 
 ---
 
-# 🤝 Let's Connect
+## Looking Ahead
 
-📧 syedbilal8803@gmail.com
+I plan to pursue graduate research in Artificial Intelligence with a focus on
 
-LinkedIn: www.linkedin.com/in/syed-bilal-hassan-kazmi
+* Agentic AI
+* Retrieval-Augmented Generation
+* Large Language Models
+* Multi-Agent Systems
+* Trustworthy AI
 
-Google Scholar *(Coming Soon)*
-
-ORCID *(Coming Soon)*
-
-Portfolio *(In Development)*
+My long-term objective is to contribute to research that advances reliable and deployable intelligent systems for real-world applications.
 
 ---
 
-> *"Research is not just about making models smarter; it's about making intelligence more trustworthy."*
+## Connect
+
+📧 **Email:** [syedbilal8803@gmail.com](mailto:syedbilal8803@gmail.com)
+
+💼 **LinkedIn:** https://www.linkedin.com/in/syed-bilal-hassan-kazmi
+
+---
+
+> *"The future of AI depends not only on making models more capable, but on making them more trustworthy."*
