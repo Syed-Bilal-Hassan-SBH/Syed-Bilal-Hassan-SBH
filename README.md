@@ -61,7 +61,7 @@ Published in **IEEE Xplore**
 
 ---
 
-## Selected Projects
+## Featured Projects
 
 ### Agentic Self-RAG
 
