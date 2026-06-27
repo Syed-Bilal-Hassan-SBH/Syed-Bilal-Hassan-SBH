@@ -236,9 +236,9 @@ while developing AI technologies that create meaningful real-world impact.
 
 # 🤝 Let's Connect
 
-📧 Email
+📧 syedbilal8803@gmail.com
 
-LinkedIn
+LinkedIn: www.linkedin.com/in/syed-bilal-hassan-kazmi
 
 Google Scholar *(Coming Soon)*
 
